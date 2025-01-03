@@ -119,6 +119,7 @@ body {
   position: absolute;
   /* transform: scale(0.1); */
   top: -28%;
+  transform: translateX(50px)
   width: 80px;
 }
 
