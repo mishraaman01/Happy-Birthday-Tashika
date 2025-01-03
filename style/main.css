@@ -7,7 +7,7 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
-  background-image: url('Tashi.png'); /* Update with the correct image URL */
+  background-image: url('img/Tashi.png'); /* Update with the correct image URL */
   background-size: cover;
   background-position: center center;
   background-attachment: fixed; /* Optional: To create a parallax effect */
@@ -111,14 +111,13 @@ body {
   display: inline-block;
   height: 350px;
   max-width: 100%;
-  
   /* height: auto; */
 }
 
 .six .hat {
-  left: 85.5%;
+  left: 50.5%;
   position: absolute;
-/*   transform: scale(0.1); */
+  /* transform: scale(0.1); */
   top: -28%;
   width: 80px;
 }
